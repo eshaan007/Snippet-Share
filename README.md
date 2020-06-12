@@ -1,3 +1,9 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://snip-share.herokuapp.com/)&nbsp;
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/PragatiVerma18/Snippet-Share)&nbsp;
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://github.com/PragatiVerma18/Snippet-Share/)&nbsp;
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](snip-share.herokuapp.com)&nbsp;
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/PragatiVerma18/Snippet-Share/blob/master/README.md)&nbsp;
+
 # Snippet-Share
 This is a code snippet sharing app that lets you share syntax highlighted code snippets with easy copy paste options and a secure secret code and an unique url.
 
@@ -34,7 +40,7 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
----
+
 ## Issues
 
 | TITLE                                                                                                          | LEVEL       |
@@ -66,5 +72,19 @@ python manage.py runserver
 > **_Feel free to contact me @ [itispragativerma@gmail.com](mailto:itispragativerma@gmail.com?Subject=SnippetShareProject)_**
 
 [![GitHub followers](https://img.shields.io/github/followers/pragativerma18.svg?label=Follow%20@pragativerma18&style=social)](https://github.com/PragatiVerma18/) [![Twitter Follow](https://img.shields.io/twitter/follow/pragati_verma18?style=social)](https://twitter.com/pragati_verma18)
+
+## Like This?? Star  ⭐  &nbsp; this Repo. &nbsp;🤩&nbsp;
+
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/PragatiVerma18/Snippet-Share)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/PragatiVerma18/Snippet-Share)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/PragatiVerma18/Snippet-Share)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/PragatiVerma18/Snippet-Share)
+
+> Made By Pragati Verma with &nbsp; ❤️ &nbsp;
+
+> Pragati Verma &copy; 2020
+<br><br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/PragatiVerma18/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/PragatiVerma18/)
 
 ***
